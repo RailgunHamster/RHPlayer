@@ -1,0 +1,6 @@
+framework module Pods_NewRHPlayer {
+  umbrella header "Pods-NewRHPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
